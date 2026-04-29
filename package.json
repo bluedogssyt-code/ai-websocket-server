@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "groq-sdk": "latest",
+    "ws": "latest"
+  }
+}
